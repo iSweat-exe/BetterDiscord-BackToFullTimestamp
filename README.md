@@ -18,11 +18,6 @@
 2. Place it in the **BetterDiscord/plugins** folder.
 3. Restart Discord and enable the plugin in BetterDiscord settings.
 
-## 🔧 Development
-This plugin uses the **BdApi** to store settings and display alerts.
-
-📜 **Source Code:** Available on [GitHub](https://github.com/iSweat-exe)
-
 ## 📢 Support
 If you encounter any issues, you can contact me via Discord: `isweatmc`
 
