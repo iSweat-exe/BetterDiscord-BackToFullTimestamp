@@ -1,4 +1,4 @@
-# BackToFullTimestamp [BetterDiscord Plugin]
+# BackToFullTimestamp v1.1.3 [BetterDiscord Plugin]
 
 ## 📌 Description
 **BackToFullTimestamp** is a plugin that restores the full timestamp format on messages in Discord. 
