@@ -23,7 +23,3 @@ If you encounter any issues, you can contact me via Discord: `isweatmc`
 
 ---
 🛠️ **Developed by [iSweat](https://github.com/iSweat-exe)*
-
-![GitHub stars](https://img.shields.io/github/stars/iSweat-exe/BetterDiscord-BackToFullTimestamp?style=social)
-![GitHub forks](https://img.shields.io/github/forks/iSweat-exe/BetterDiscord-BackToFullTimestamp?style=social)
-![GitHub issues](https://img.shields.io/github/issues/iSweat-exe/BetterDiscord-BackToFullTimestamp)
